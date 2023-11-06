@@ -2,7 +2,10 @@
 
 Welcome to the Snake Game project! 
 
-![Game Screenshot](screenshot.png)
+![snake1](https://github.com/AKdevi99/Snake_game/assets/133839771/a9971d68-b3a3-439d-b6c3-edb39f1f6dba)
+![snake 2](https://github.com/AKdevi99/Snake_game/assets/133839771/040a624f-9481-4a63-90f2-015c8e47964d)
+![snake_3](https://github.com/AKdevi99/Snake_game/assets/133839771/d431a947-019d-4b4b-8afc-253f6082accf)
+![snake_4](https://github.com/AKdevi99/Snake_game/assets/133839771/c09f8118-d378-4a6d-aa59-a8d5360c12f9)
 
 ## About
 
