@@ -49,7 +49,7 @@ We welcome contributions from the open-source community. Feel free to create iss
 
 ## Credits
 
-- Developed by [Your Name](https://github.com/AKdevi99)
+- Developed by [AKdevi99](https://github.com/AKdevi99)
 - Snake Icon made by [Icongeek26](https://www.flaticon.com/authors/icongeek26) from [www.flaticon.com](https://www.flaticon.com/)
 
 ## License
